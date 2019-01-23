@@ -2,8 +2,11 @@
   "name": "desktop",
   "version": "0.1.0",
   "private": true,
+  "main": "main.js",
   "dependencies": {
+    "bootstrap": "^4.2.1",
     "react": "^16.7.0",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
   },
